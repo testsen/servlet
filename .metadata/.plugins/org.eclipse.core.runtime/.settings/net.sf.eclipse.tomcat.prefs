@@ -1,0 +1,7 @@
+computeSourcePath=true
+contextsDir=C\:\\ServletStudy\\servletbook\\apache-tomcat-9.0.11\\conf\\Catalina\\localhost
+eclipse.preferences.version=1
+managerUrl=http\://localhost\:8080/manager
+tomcatConfigFile=C\:\\ServletStudy\\servletbook\\apache-tomcat-9.0.11\\conf\\server.xml
+tomcatDir=C\:\\ServletStudy\\servletbook\\apache-tomcat-9.0.11
+tomcatVersion=tomcatV9
