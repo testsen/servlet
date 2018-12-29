@@ -231,4 +231,26 @@
 	<url-pattern>/servlet/CounterServlet</url-pattern>
 </servlet-mapping>
 
+<servlet>
+	<servlet-name>SessionListServlet</servlet-name>
+	<servlet-class>session.SessionListServlet</servlet-class>
+
+</servlet>
+
+<servlet-mapping>
+	<servlet-name>SessionListServlet</servlet-name>
+	<url-pattern>/servlet/SessionListServlet</url-pattern>
+</servlet-mapping>
+
+<servlet>
+	<servlet-name>GuessServletSession</servlet-name>
+	<servlet-class>session.GuessServletSession</servlet-class>
+
+</servlet>
+
+<servlet-mapping>
+	<servlet-name>GuessServletSession</servlet-name>
+	<url-pattern>/servlet/GuessServletSession</url-pattern>
+</servlet-mapping>
+
 </web-app>
